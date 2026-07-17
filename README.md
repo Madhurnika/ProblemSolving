@@ -8,6 +8,8 @@
 
 ​HackerRank: Solutions to problems from HackerRank.
 
+GeeksforGeeks: Solutions to problems from GeeksforGeeks.
+
  ​🚀 Goals:
  
 ​Maintain consistent daily practice.
